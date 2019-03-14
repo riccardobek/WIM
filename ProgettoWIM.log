@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  14 MAR 2019 18:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  14 MAR 2019 19:51
 entering extended mode
 **./ProgettoWIM.tex
 (ProgettoWIM.tex
@@ -579,12 +579,12 @@ isodate: babel.sty has been loaded
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<img/UniPd.png, id=71, 943.525pt x 949.5475pt>
+<img/UniPd.png, id=95, 943.525pt x 949.5475pt>
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 20.
 (pdftex.def)             Requested size: 141.34987pt x 142.26378pt.
-<img/MathDip.png, id=72, 1001.99344pt x 152.06813pt>
+<img/MathDip.png, id=96, 1001.99344pt x 152.06813pt>
 File: img/MathDip.png Graphic file (type png)
 <use img/MathDip.png>
 Package pdftex.def Info: img/MathDip.png  used on input line 22.
@@ -630,18 +630,16 @@ been already used, duplicate ignored
                    \relax 
 l.60 \newpage
               [1]) (Sezioni/Introduzione.tex) (Sezioni/Homepage.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--1
+("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 6.
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
 
  []
 
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 2.
-LaTeX Font Info:    Try loading font information for OMS+phv on input line 18.
-("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
-File: omsphv.fd 
-)
-LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
 ) (Sezioni/Dominio.tex) (Sezioni/SEO.tex) (Sezioni/Navigazione.tex)
 (Sezioni/Menu.tex) (Sezioni/Ricerca.tex) (Sezioni/Pubblicita.tex)
 (Sezioni/Mobile.tex) (Sezioni/PaginaGenerica.tex) (Sezioni/Errore404.tex)
@@ -663,26 +661,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `ProgettoWIM.out' has not changed.
-(rerunfilecheck)             Checksum: 88484785503C3512F6504960A6DDF454;915.
+(rerunfilecheck)             Checksum: 449433DF89DFC8D5554AE97318BD5E67;1526.
  ) 
 Here is how much of TeX's memory you used:
- 9215 strings out of 493303
- 132306 string characters out of 3129784
- 237991 words of memory out of 3000000
- 12512 multiletter control sequences out of 15000+200000
+ 9458 strings out of 493303
+ 135205 string characters out of 3129784
+ 240035 words of memory out of 3000000
+ 12755 multiletter control sequences out of 15000+200000
  61097 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
  34i,18n,49p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvb8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/helvetic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ProgettoWIM.pdf (4 pages, 298603 bytes).
+}<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
+b8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helve
+tic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
+rw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/urw/helvetic/uhvro8a.pfb>
+Output written on ProgettoWIM.pdf (4 pages, 295201 bytes).
 PDF statistics:
- 149 PDF objects out of 1000 (max. 8388607)
+ 169 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
