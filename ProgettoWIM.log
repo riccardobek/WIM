@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  15 MAR 2019 17:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  28 MAR 2019 16:29
 entering extended mode
 **./ProgettoWIM.tex
 (ProgettoWIM.tex
@@ -284,12 +284,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip56
 )
+("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count106
+\float@exts=\toks22
+\float@box=\box26
+\@float@everytoks=\toks23
+\@floatcapt=\box27
+)
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
 sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
-\Gm@cnth=\count106
-\Gm@cntv=\count107
-\c@Gm@tempcnt=\count108
+\Gm@cnth=\count107
+\Gm@cntv=\count108
+\c@Gm@tempcnt=\count109
 \Gm@bindingoffset=\dimen118
 \Gm@wd@mp=\dimen119
 \Gm@odd@mp=\dimen120
@@ -298,7 +306,7 @@ Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@layoutheight=\dimen123
 \Gm@layouthoffset=\dimen124
 \Gm@layoutvoffset=\dimen125
-\Gm@dimlist=\toks22
+\Gm@dimlist=\toks24
 
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
 cfg")
@@ -315,7 +323,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\substr\substr.sty"
 Package: substr 2009/10/20 v1.2 Handle substrings
-\c@su@anzahl=\count109
+\c@su@anzahl=\count110
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\isodate\italian.id
 f"
@@ -324,43 +332,43 @@ File: italian.idf 2010/01/03 v2.30 Language definitions for isodate package (HH
 
 Define commands for Italian date format
 )
-\c@iso@tmpmonth=\count110
-\c@iso@yeartwo=\count111
-\c@iso@slash=\count112
-\c@iso@minus=\count113
-\c@iso@dot=\count114
-\c@iso@@slash=\count115
-\c@iso@@minus=\count116
-\c@iso@@dot=\count117
+\c@iso@tmpmonth=\count111
+\c@iso@yeartwo=\count112
+\c@iso@slash=\count113
+\c@iso@minus=\count114
+\c@iso@dot=\count115
+\c@iso@@slash=\count116
+\c@iso@@minus=\count117
+\c@iso@@dot=\count118
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arydshln\arydshln.
 sty"
 Package: arydshln 2018/12/26 v1.75 
 \dashlinedash=\dimen126
 \dashlinegap=\dimen127
-\adl@box=\box26
+\adl@box=\box28
 \adl@height=\dimen128
 \adl@heightsave=\dimen129
 \adl@depth=\dimen130
 \adl@depthsave=\dimen131
 \adl@finaldepth=\dimen132
-\adl@columns=\count118
-\adl@ncol=\count119
-\adl@currentcolumn=\count120
-\adl@currentcolumnsave=\count121
-\adl@totalheight=\count122
-\adl@totalheightsave=\count123
-\adl@dash=\count124
-\adl@gap=\count125
-\adl@cla=\count126
-\adl@clb=\count127
-\adl@everyvbox=\toks23
+\adl@columns=\count119
+\adl@ncol=\count120
+\adl@currentcolumn=\count121
+\adl@currentcolumnsave=\count122
+\adl@totalheight=\count123
+\adl@totalheightsave=\count124
+\adl@dash=\count125
+\adl@gap=\count126
+\adl@cla=\count127
+\adl@clb=\count128
+\adl@everyvbox=\toks25
 \adl@LTpagetotal=\dimen133
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
 sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks24
+\@emptytoks=\toks26
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
@@ -380,7 +388,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
 "
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks25
+\@emptytoks=\toks27
 \ex@=\dimen134
 ))
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
@@ -392,61 +400,61 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 "
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count128
+\inf@bad=\count129
 LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count129
-\leftroot@=\count130
+\uproot@=\count130
+\leftroot@=\count131
 LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count131
-\DOTSCASE@=\count132
+\classnum@=\count132
+\DOTSCASE@=\count133
 LaTeX Info: Redefining \ldots on input line 472.
 LaTeX Info: Redefining \dots on input line 475.
 LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
+\Mathstrutbox@=\box29
+\strutbox@=\box30
 \big@size=\dimen136
 LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count133
-\c@MaxMatrixCols=\count134
+\macc@depth=\count134
+\c@MaxMatrixCols=\count135
 \dotsspace@=\muskip11
-\c@parentequation=\count135
-\dspbrk@lvl=\count136
-\tag@help=\toks26
-\row@=\count137
-\column@=\count138
-\maxfields@=\count139
-\andhelp@=\toks27
+\c@parentequation=\count136
+\dspbrk@lvl=\count137
+\tag@help=\toks28
+\row@=\count138
+\column@=\count139
+\maxfields@=\count140
+\andhelp@=\toks29
 \eqnshift@=\dimen137
 \alignsep@=\dimen138
 \tagshift@=\dimen139
 \tagwidth@=\dimen140
 \totwidth@=\dimen141
 \lineht@=\dimen142
-\@envbody=\toks28
+\@envbody=\toks30
 \multlinegap=\skip58
 \multlinetaggap=\skip59
-\mathdisplay@stack=\toks29
+\mathdisplay@stack=\toks31
 LaTeX Info: Redefining \[ on input line 2817.
 LaTeX Info: Redefining \] on input line 2818.
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
-\thm@style=\toks30
-\thm@bodyfont=\toks31
-\thm@headfont=\toks32
-\thm@notefont=\toks33
-\thm@headpunct=\toks34
+\thm@style=\toks32
+\thm@bodyfont=\toks33
+\thm@headfont=\toks34
+\thm@notefont=\toks35
+\thm@headpunct=\toks36
 \thm@preskip=\skip60
 \thm@postskip=\skip61
 \thm@headsep=\skip62
-\dth@everypar=\toks35
+\dth@everypar=\toks37
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
 ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 38.
+Package hyperref Info: Option `colorlinks' set `true' on input line 39.
 ) (Template/Dati.tex) (ProgettoWIM.aux)
 \openout1 = `ProgettoWIM.aux'.
 
@@ -481,17 +489,17 @@ Package lastpage Info: Please have a look at the pageslts package at
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count140
+\scratchcounter=\count141
 \scratchdimen=\dimen143
-\scratchbox=\box29
-\nofMPsegments=\count141
-\nofMParguments=\count142
-\everyMPshowfont=\toks36
-\MPscratchCnt=\count143
+\scratchbox=\box31
+\nofMPsegments=\count142
+\nofMParguments=\count143
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count144
 \MPscratchDim=\dimen144
-\MPnumerator=\count144
-\makeMPintoPDFobject=\count145
-\everyMPtoPDFconversion=\toks37
+\MPnumerator=\count145
+\makeMPintoPDFobject=\count146
+\everyMPtoPDFconversion=\toks39
 )
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
 base.sty"
@@ -508,7 +516,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-\AtBeginShipoutBox=\box30
+\AtBeginShipoutBox=\box32
 
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
 "
@@ -530,7 +538,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 estring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count146
+\c@section@level=\count147
 )
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
@@ -579,12 +587,12 @@ isodate: babel.sty has been loaded
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<img/UniPd.png, id=95, 943.525pt x 949.5475pt>
+<img/UniPd.png, id=111, 943.525pt x 949.5475pt>
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 20.
 (pdftex.def)             Requested size: 141.34987pt x 142.26378pt.
-<img/MathDip.png, id=96, 1001.99344pt x 152.06813pt>
+<img/MathDip.png, id=112, 1001.99344pt x 152.06813pt>
 File: img/MathDip.png Graphic file (type png)
 <use img/MathDip.png>
 Package pdftex.def Info: img/MathDip.png  used on input line 22.
@@ -629,66 +637,151 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.60 \newpage
-              [1]) (Sezioni/Introduzione.tex) (Sezioni/Homepage.tex
+              [1]) (Sezioni/AnalisiPreliminare.tex) (Sezioni/Homepage.tex
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
+<img/homepage01.png, id=158, 1028.34187pt x 495.35063pt>
+File: img/homepage01.png Graphic file (type png)
+<use img/homepage01.png>
+Package pdftex.def Info: img/homepage01.png  used on input line 7.
+(pdftex.def)             Requested size: 512.14963pt x 246.70723pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 5.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 16.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 8--12
+[2pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) 
+has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.16 
+      <./img/homepage01.png>]
+<img/homepage02.png, id=168, 1028.34187pt x 495.35063pt>
+File: img/homepage02.png Graphic file (type png)
+<use img/homepage02.png>
+Package pdftex.def Info: img/homepage02.png  used on input line 24.
+(pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
+<img/homepage03.png, id=169, 1028.34187pt x 495.35063pt>
+File: img/homepage03.png Graphic file (type png)
+<use img/homepage03.png>
+Package pdftex.def Info: img/homepage03.png  used on input line 25.
+(pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
+
+Overfull \hbox (2.3214pt too wide) in paragraph at lines 24--26
+[][] []
  []
 
+<img/homepage04.png, id=170, 1028.34187pt x 495.35063pt>
+File: img/homepage04.png Graphic file (type png)
+<use img/homepage04.png>
+Package pdftex.def Info: img/homepage04.png  used on input line 31.
+(pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
+<img/homepage05.png, id=171, 1028.34187pt x 152.82094pt>
+File: img/homepage05.png Graphic file (type png)
+<use img/homepage05.png>
+Package pdftex.def Info: img/homepage05.png  used on input line 32.
+(pdftex.def)             Requested size: 256.07481pt x 38.0559pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--21
-
+Overfull \hbox (2.3214pt too wide) in paragraph at lines 31--33
+[][] []
  []
 
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
-Package pdftex.def Info: img/UniPd.png  used on input line 21.
+Package pdftex.def Info: img/UniPd.png  used on input line 36.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
-[2]) (Sezioni/Dominio.tex) (Sezioni/Navigazione.tex) (Sezioni/Menu.tex)
-(Sezioni/Ricerca.tex
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.36 
+      <./img/homepage02.png> <./img/homepage03.png>]) (Sezioni/Nome.tex)
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 17.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+
+[4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.17 	
+       <./img/homepage04.png> <./img/homepage05.png>]
+(Sezioni/StrutturaGenerale.tex (Sezioni/Navigazione.tex
+LaTeX Font Info:    Try loading font information for OMS+phv on input line 6.
+
+("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
+File: omsphv.fd 
+)
+LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 14.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+[5]) (Sezioni/Menu.tex
+<img/menu.png, id=202, 879.285pt x 165.61874pt>
+File: img/menu.png Graphic file (type png)
+<use img/menu.png>
+Package pdftex.def Info: img/menu.png  used on input line 7.
+(pdftex.def)             Requested size: 512.14963pt x 96.46832pt.
+) (Sezioni/Ricerca.tex
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 1.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
- [3]) (Sezioni/Pubblicita.tex) (Sezioni/Mobile.tex)
-(Sezioni/PaginaGenerica.tex) (Sezioni/Errore404.tex) (Sezioni/Conclusioni.tex)
+ [6]) (Sezioni/Pubblicita.tex))
+(Sezioni/PaginaGenerica.tex) (Sezioni/Mobile.tex) (Sezioni/Errore404.tex)
+(Sezioni/Conclusioni.tex
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 35.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.35 \end{center}
+                  <./img/menu.png>]) 
 AED: lastpage setting LastPage
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
-Package pdftex.def Info: img/UniPd.png  used on input line 26.
+Package pdftex.def Info: img/UniPd.png  used on input line 35.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (ProgettoWIM.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `ProgettoWIM.out' has not changed.
-(rerunfilecheck)             Checksum: 3CDAAE884041A6F7BFC4622C8880A7BA;1547.
+(rerunfilecheck)             Checksum: CC0DB4B0A24940B28F974FABA8DDEA9D;1870.
  ) 
 Here is how much of TeX's memory you used:
- 9465 strings out of 493303
- 135210 string characters out of 3129784
- 240617 words of memory out of 3000000
- 12764 multiletter control sequences out of 15000+200000
+ 9595 strings out of 493303
+ 137359 string characters out of 3129784
+ 248193 words of memory out of 3000000
+ 12866 multiletter control sequences out of 15000+200000
  61097 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 34i,18n,55p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,18n,54p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
-b8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helve
-tic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvro8a.pfb>
-Output written on ProgettoWIM.pdf (5 pages, 300922 bytes).
+}<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvb8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on ProgettoWIM.pdf (9 pages, 3694134 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
- 29 named destinations out of 1000 (max. 500000)
- 195 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 249 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 

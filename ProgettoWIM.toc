@@ -3,24 +3,28 @@
 \babel@toc {italian}{}
 \contentsline {section}{\numberline {1}Analisi preliminare}{2}{section.1}
 \contentsline {section}{\numberline {2}Homepage}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}I 6 assi informativi}{2}{subsection.2.1}
-\contentsline {subsubsection}{\numberline {2.1.1}Where - "A che sito sono arrivato?"}{2}{subsubsection.2.1.1}
-\contentsline {subsubsection}{\numberline {2.1.2}Who - "Chi c'\IeC {\`e} dietro al sito?"}{2}{subsubsection.2.1.2}
-\contentsline {subsubsection}{\numberline {2.1.3}Why - "Perch\IeC {\'e} dovrei dare la mia fiducia? Che benefici mi d\IeC {\`a}?"}{2}{subsubsection.2.1.3}
-\contentsline {subsubsection}{\numberline {2.1.4}What - "Che cosa offre il sito?"}{3}{subsubsection.2.1.4}
-\contentsline {subsubsection}{\numberline {2.1.5}When - "C'\IeC {\`e} qualche novit\IeC {\`a}?"}{3}{subsubsection.2.1.5}
-\contentsline {subsubsection}{\numberline {2.1.6}How - "Come faccio ad arrivare alle sezioni principali?"}{3}{subsubsection.2.1.6}
-\contentsline {section}{\numberline {3}Dominio}{3}{section.3}
-\contentsline {section}{\numberline {4}Navigazione}{3}{section.4}
-\contentsline {section}{\numberline {5}Men\IeC {\`u}}{4}{section.5}
-\contentsline {section}{\numberline {6}Ricerca}{4}{section.6}
-\contentsline {section}{\numberline {7}Pubblicit\IeC {\`a}}{4}{section.7}
-\contentsline {section}{\numberline {8}Mobile}{4}{section.8}
-\contentsline {section}{\numberline {9}Altra pagina del sito}{4}{section.9}
-\contentsline {subsection}{\numberline {9.1}Lista anime A-Z}{4}{subsection.9.1}
-\contentsline {subsection}{\numberline {9.2}Anime in corso}{4}{subsection.9.2}
-\contentsline {subsection}{\numberline {9.3}Anime con uscita irregolare}{4}{subsection.9.3}
-\contentsline {subsection}{\numberline {9.4}Ultime serie}{4}{subsection.9.4}
-\contentsline {subsection}{\numberline {9.5}Contacts}{4}{subsection.9.5}
-\contentsline {section}{\numberline {10}Errore 404}{4}{section.10}
-\contentsline {section}{\numberline {11}Conclusioni}{4}{section.11}
+\contentsline {subsection}{\numberline {2.1}I 6 assi informativi}{3}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Where - "A che sito sono arrivato?"}{3}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Who - "Chi c'\IeC {\`e} dietro al sito?"}{3}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Why - "Perch\IeC {\'e} dovrei dare la mia fiducia? Che benefici mi d\IeC {\`a}?"}{3}{subsubsection.2.1.3}
+\contentsline {subsubsection}{\numberline {2.1.4}What - "Che cosa offre il sito?"}{4}{subsubsection.2.1.4}
+\contentsline {subsubsection}{\numberline {2.1.5}When - "C'\IeC {\`e} qualche novit\IeC {\`a}?"}{4}{subsubsection.2.1.5}
+\contentsline {subsubsection}{\numberline {2.1.6}How - "Come faccio ad arrivare alle sezioni principali?"}{4}{subsubsection.2.1.6}
+\contentsline {section}{\numberline {3}Nome}{5}{section.3}
+\contentsline {section}{\numberline {4}Struttura generale}{5}{section.4}
+\contentsline {subsection}{\numberline {4.1}Navigazione}{5}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Breadcrumb}{6}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Link colorati}{6}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Back button}{6}{subsubsection.4.1.3}
+\contentsline {subsection}{\numberline {4.2}Men\IeC {\`u}}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Ricerca}{7}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Pubblicit\IeC {\`a}}{7}{subsection.4.4}
+\contentsline {section}{\numberline {5}Altra pagina del sito}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Lista anime A-Z}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Anime in corso}{7}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Anime con uscita irregolare}{7}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Ultime serie}{7}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Contacts}{7}{subsection.5.5}
+\contentsline {section}{\numberline {6}Mobile}{7}{section.6}
+\contentsline {section}{\numberline {7}Errore 404}{7}{section.7}
+\contentsline {section}{\numberline {8}Conclusioni}{8}{section.8}
