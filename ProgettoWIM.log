@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  28 MAR 2019 17:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  29 MAR 2019 17:16
 entering extended mode
 **./ProgettoWIM.tex
 (ProgettoWIM.tex
@@ -455,7 +455,11 @@ ty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 39.
-) (Template/Dati.tex) (ProgettoWIM.aux)
+) (Template/Dati.tex) (ProgettoWIM.aux
+
+LaTeX Warning: Label `img5' multiply defined.
+
+)
 \openout1 = `ProgettoWIM.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -473,11 +477,9 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 4.
-
-("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
+ ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd"
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+) ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
 File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 )
 LaTeX Info: Redefining \it@ocap on input line 4.
@@ -637,7 +639,12 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.60 \newpage
-              [1]) (Sezioni/AnalisiPreliminare.tex) (Sezioni/Homepage.tex
+              [1]) (Sezioni/AnalisiPreliminare.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 2--11
+
+ []
+
+(Sezioni/Homepage.tex
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
@@ -736,11 +743,21 @@ File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 1.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
- [6]) (Sezioni/Pubblicita.tex))
-(Sezioni/PaginaGenerica.tex) (Sezioni/Mobile.tex) (Sezioni/Errore404.tex
+ [6]
+<img/CasoLimite.png, id=209, 1013.28563pt x 257.46187pt>
+File: img/CasoLimite.png Graphic file (type png)
+<use img/CasoLimite.png>
+Package pdftex.def Info: img/CasoLimite.png  used on input line 11.
+(pdftex.def)             Requested size: 512.14963pt x 130.1331pt.
+) (Sezioni/Errore404.tex
+<img/Errore404.png, id=212, 1028.34187pt x 494.59781pt>
+File: img/Errore404.png Graphic file (type png)
+<use img/Errore404.png>
+Package pdftex.def Info: img/Errore404.png  used on input line 6.
+(pdftex.def)             Requested size: 512.14963pt x 246.33228pt.
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
-Package pdftex.def Info: img/UniPd.png  used on input line 1.
+Package pdftex.def Info: img/UniPd.png  used on input line 9.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
 
 [7pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) 
@@ -748,31 +765,58 @@ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1 \section
-            {Errore 404} <./img/menu.png>]) (Sezioni/Conclusioni.tex)
+l.9 \end{figure}
+                pdfTeX warning (ext4): destination with the same identifier (na
+me{figure.5}) has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.9 \end{figure}
+                 <./img/menu.png> <./img/CasoLimite.png>])
+(Sezioni/Pubblicita.tex)) (Sezioni/PaginaGenerica.tex
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 4.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [8pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.4 \subsection
+               {Lista anime A-Z} <./img/Errore404.png>]) (Sezioni/Mobile.tex)
+(Sezioni/Conclusioni.tex
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 35.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [9]) 
 AED: lastpage setting LastPage
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 35.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
-[8]
+[10]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (ProgettoWIM.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `ProgettoWIM.out' has not changed.
-(rerunfilecheck)             Checksum: CC0DB4B0A24940B28F974FABA8DDEA9D;1870.
+(rerunfilecheck)             Checksum: 10D386096E5F242855FFD63EC0AE496C;1884.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 9595 strings out of 493303
- 137359 string characters out of 3129784
- 246193 words of memory out of 3000000
- 12866 multiletter control sequences out of 15000+200000
+ 9610 strings out of 493303
+ 137610 string characters out of 3129784
+ 247263 words of memory out of 3000000
+ 12875 multiletter control sequences out of 15000+200000
  61097 words of font info for 63 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 34i,18n,55p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,18n,55p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
@@ -780,9 +824,9 @@ cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 pe1/urw/helvetic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ProgettoWIM.pdf (9 pages, 3695700 bytes).
+Output written on ProgettoWIM.pdf (11 pages, 4411908 bytes).
 PDF statistics:
- 249 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 268 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 267 words of extra memory for PDF output out of 10000 (max. 10000000)
 
