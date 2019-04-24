@@ -22,11 +22,9 @@
 \contentsline {subsection}{\numberline {4.4}Errore 404}{8}{subsection.4.4}
 \contentsline {subsection}{\numberline {4.5}Pubblicit\IeC {\`a}}{8}{subsection.4.5}
 \contentsline {section}{\numberline {5}Altra pagina del sito}{9}{section.5}
-\contentsline {subsection}{\numberline {5.1}Lista anime A-Z}{9}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Anime in corso}{9}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Anime con uscita irregolare}{9}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Ultime serie}{9}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Contacts}{9}{subsection.5.5}
-\contentsline {section}{\numberline {6}Mobile}{9}{section.6}
-\contentsline {section}{\numberline {7}Conclusioni}{10}{section.7}
-\contentsline {section}{\numberline {8}Tabella delle figure}{10}{section.8}
+\contentsline {paragraph}{Where}{9}{section*.3}
+\contentsline {paragraph}{What}{10}{section*.4}
+\contentsline {subparagraph}{Design}{10}{section*.5}
+\contentsline {section}{\numberline {6}Mobile}{10}{section.6}
+\contentsline {section}{\numberline {7}Conclusioni}{12}{section.7}
+\contentsline {section}{\numberline {8}Tabella delle figure}{14}{section.8}

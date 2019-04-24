@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  23 APR 2019 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  24 APR 2019 17:38
 entering extended mode
 **./ProgettoWIM.tex
 (ProgettoWIM.tex
@@ -587,12 +587,12 @@ isodate: babel.sty has been loaded
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-0.def"
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
-<img/UniPd.png, id=115, 943.525pt x 949.5475pt>
+<img/UniPd.png, id=95, 943.525pt x 949.5475pt>
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 20.
 (pdftex.def)             Requested size: 141.34987pt x 142.26378pt.
-<img/MathDip.png, id=116, 1001.99344pt x 152.06813pt>
+<img/MathDip.png, id=96, 1001.99344pt x 152.06813pt>
 File: img/MathDip.png Graphic file (type png)
 <use img/MathDip.png>
 Package pdftex.def Info: img/MathDip.png  used on input line 22.
@@ -646,7 +646,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-<img/homepage01.png, id=165, 1028.34187pt x 495.35063pt>
+<img/homepage01.png, id=140, 1028.34187pt x 495.35063pt>
 File: img/homepage01.png Graphic file (type png)
 <use img/homepage01.png>
 Package pdftex.def Info: img/homepage01.png  used on input line 7.
@@ -665,12 +665,12 @@ has been already used, duplicate ignored
                                                   \fi \fi 
 l.16 
       <./img/homepage01.png>]
-<img/homepage02.png, id=177, 1028.34187pt x 495.35063pt>
+<img/homepage02.png, id=152, 1028.34187pt x 495.35063pt>
 File: img/homepage02.png Graphic file (type png)
 <use img/homepage02.png>
 Package pdftex.def Info: img/homepage02.png  used on input line 24.
 (pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
-<img/homepage03.png, id=178, 1028.34187pt x 495.35063pt>
+<img/homepage03.png, id=153, 1028.34187pt x 495.35063pt>
 File: img/homepage03.png Graphic file (type png)
 <use img/homepage03.png>
 Package pdftex.def Info: img/homepage03.png  used on input line 25.
@@ -680,12 +680,12 @@ Overfull \hbox (2.3214pt too wide) in paragraph at lines 24--26
 [][] []
  []
 
-<img/homepage04.png, id=179, 1028.34187pt x 495.35063pt>
+<img/homepage04.png, id=154, 1028.34187pt x 495.35063pt>
 File: img/homepage04.png Graphic file (type png)
 <use img/homepage04.png>
 Package pdftex.def Info: img/homepage04.png  used on input line 31.
 (pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
-<img/homepage05.png, id=180, 1028.34187pt x 152.82094pt>
+<img/homepage05.png, id=155, 1028.34187pt x 152.82094pt>
 File: img/homepage05.png Graphic file (type png)
 <use img/homepage05.png>
 Package pdftex.def Info: img/homepage05.png  used on input line 32.
@@ -731,7 +731,7 @@ File: img/UniPd.png Graphic file (type png)
 Package pdftex.def Info: img/UniPd.png  used on input line 14.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
 [5]) (Sezioni/Menu.tex
-<img/menu.png, id=214, 879.285pt x 165.61874pt>
+<img/menu.png, id=189, 879.285pt x 165.61874pt>
 File: img/menu.png Graphic file (type png)
 <use img/menu.png>
 Package pdftex.def Info: img/menu.png  used on input line 7.
@@ -742,13 +742,13 @@ File: img/UniPd.png Graphic file (type png)
 Package pdftex.def Info: img/UniPd.png  used on input line 1.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
  [6]
-<img/CasoLimite.png, id=222, 1013.28563pt x 257.46187pt>
+<img/CasoLimite.png, id=197, 1013.28563pt x 257.46187pt>
 File: img/CasoLimite.png Graphic file (type png)
 <use img/CasoLimite.png>
 Package pdftex.def Info: img/CasoLimite.png  used on input line 11.
 (pdftex.def)             Requested size: 512.14963pt x 130.1331pt.
 ) (Sezioni/Errore404.tex
-<img/Errore404.png, id=225, 1028.34187pt x 494.59781pt>
+<img/Errore404.png, id=200, 1028.34187pt x 494.59781pt>
 File: img/Errore404.png Graphic file (type png)
 <use img/Errore404.png>
 Package pdftex.def Info: img/Errore404.png  used on input line 6.
@@ -772,58 +772,137 @@ me{figure.5}) has been already used, duplicate ignored
 l.9 \end{figure}
                  <./img/menu.png> <./img/CasoLimite.png>])
 (Sezioni/Pubblicita.tex)) (Sezioni/PaginaGenerica.tex
+<img/Pag2_01.png, id=208, 1015.54407pt x 1120.185pt>
+File: img/Pag2_01.png Graphic file (type png)
+<use img/Pag2_01.png>
+Package pdftex.def Info: img/Pag2_01.png  used on input line 5.
+(pdftex.def)             Requested size: 256.07481pt x 282.45561pt.
+<img/Pag2_02.png, id=209, 1015.54407pt x 1178.90437pt>
+File: img/Pag2_02.png Graphic file (type png)
+<use img/Pag2_02.png>
+Package pdftex.def Info: img/Pag2_02.png  used on input line 6.
+(pdftex.def)             Requested size: 256.07481pt x 297.26176pt.
+
+Overfull \hbox (2.3214pt too wide) in paragraph at lines 5--7
+[][] []
+ []
+
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
-Package pdftex.def Info: img/UniPd.png  used on input line 4.
+Package pdftex.def Info: img/UniPd.png  used on input line 9.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
- [8pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
- has been already used, duplicate ignored
+[8pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) 
+has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.4 \subsection
-               {Lista anime A-Z} <./img/Errore404.png>]) (Sezioni/Mobile.tex
-<img/Mobile.png, id=242, 241.65282pt x 426.84468pt>
+l.9 \end{figure}
+                 <./img/Errore404.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 11--13
+
+ []
+
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 18.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+[9pdfTeX warning (ext4): destination with the same identifier (name{figure.7}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.18 	\newpage
+               <./img/Pag2_01.png> <./img/Pag2_02.png>]) (Sezioni/Mobile.tex
+<img/Mobile.png, id=234, 241.65282pt x 426.84468pt>
 File: img/Mobile.png Graphic file (type png)
 <use img/Mobile.png>
 Package pdftex.def Info: img/Mobile.png  used on input line 7.
 (pdftex.def)             Requested size: 144.98174pt x 256.07481pt.
 )
-(Sezioni/Conclusioni.tex
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
-Package pdftex.def Info: img/UniPd.png  used on input line 35.
+Package pdftex.def Info: img/UniPd.png  used on input line 28.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.7})
- has been already used, duplicate ignored
+
+[10] (Sezioni/Conclusioni.tex
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 31.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.8}
+) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.35 \end{center}
-                  <./img/Mobile.png>]) (Sezioni/tabellafigure.tex)
+l.31 \newpage
+              <./img/Mobile.png>]
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 31.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [12]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
+ []
+
+)
+File: img/UniPd.png Graphic file (type png)
+<use img/UniPd.png>
+Package pdftex.def Info: img/UniPd.png  used on input line 34.
+(pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
+ [13] (Sezioni/tabellafigure.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/phv/m/n/10.95 hp02.PNG e
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/phv/m/n/10.95 hp04.PNG e
+ []
+
+
+Overfull \hbox (4.73674pt too wide) in paragraph at lines 21--21
+[]|\T1/phv/m/n/10.95 CasoLimite.png| 
+ []
+
+
+Overfull \hbox (4.28764pt too wide) in paragraph at lines 21--21
+[]|\T1/phv/m/n/10.95 Errore404.PNG| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/phv/m/n/10.95 Pag2_01.png
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+\T1/phv/m/n/10.95 e
+ []
+
+) 
 AED: lastpage setting LastPage
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 37.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
-[10]
+[14]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 37.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 37.
  (ProgettoWIM.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 37.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 37.
 Package rerunfilecheck Info: File `ProgettoWIM.out' has not changed.
-(rerunfilecheck)             Checksum: ED6230CB433252BF40DA7D920747CA9A;1941.
+(rerunfilecheck)             Checksum: 093FD46047E3400AEE6DF2A72191874E;1610.
  ) 
 Here is how much of TeX's memory you used:
- 9623 strings out of 493303
- 137845 string characters out of 3129784
- 248321 words of memory out of 3000000
- 12883 multiletter control sequences out of 15000+200000
- 61097 words of font info for 63 fonts, out of 3000000 for 9000
+ 9638 strings out of 493303
+ 138000 string characters out of 3129784
+ 249438 words of memory out of 3000000
+ 12889 multiletter control sequences out of 15000+200000
+ 62833 words of font info for 64 fonts, out of 3000000 for 9000
  1144 hyphenation exceptions out of 8191
- 37i,18n,55p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,18n,54p,825b,588s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
 }<C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
@@ -831,9 +910,9 @@ cm/cmsy10.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
 pe1/urw/helvetic/uhvbo8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKTeX 2.9/
 fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/bek_1/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on ProgettoWIM.pdf (11 pages, 4591635 bytes).
+Output written on ProgettoWIM.pdf (15 pages, 6991048 bytes).
 PDF statistics:
- 327 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 347 PDF objects out of 1000 (max. 8388607)
+ 55 named destinations out of 1000 (max. 500000)
+ 250 words of extra memory for PDF output out of 10000 (max. 10000000)
 
