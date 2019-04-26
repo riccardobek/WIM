@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  26 APR 2019 16:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6600 64-bit) (preloaded format=pdflatex 2018.3.15)  26 APR 2019 16:16
 entering extended mode
 **./ProgettoWIM.tex
 (ProgettoWIM.tex
@@ -646,10 +646,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--11
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-32.def"
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-<img/homepage01.png, id=140, 1028.34187pt x 495.35063pt>
-File: img/homepage01.png Graphic file (type png)
-<use img/homepage01.png>
-Package pdftex.def Info: img/homepage01.png  used on input line 7.
+<img/hp01.png, id=140, 1028.34187pt x 495.35063pt>
+File: img/hp01.png Graphic file (type png)
+<use img/hp01.png>
+Package pdftex.def Info: img/hp01.png  used on input line 7.
 (pdftex.def)             Requested size: 512.14963pt x 246.70723pt.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 12.
@@ -664,31 +664,31 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.16 
-      <./img/homepage01.png>]
-<img/homepage02.png, id=150, 1028.34187pt x 495.35063pt>
-File: img/homepage02.png Graphic file (type png)
-<use img/homepage02.png>
-Package pdftex.def Info: img/homepage02.png  used on input line 24.
+      <./img/hp01.png>]
+<img/hp02.png, id=150, 1028.34187pt x 495.35063pt>
+File: img/hp02.png Graphic file (type png)
+<use img/hp02.png>
+Package pdftex.def Info: img/hp02.png  used on input line 24.
 (pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
-<img/homepage03.png, id=151, 1028.34187pt x 495.35063pt>
-File: img/homepage03.png Graphic file (type png)
-<use img/homepage03.png>
-Package pdftex.def Info: img/homepage03.png  used on input line 25.
+<img/hp03.png, id=151, 1028.34187pt x 495.35063pt>
+File: img/hp03.png Graphic file (type png)
+<use img/hp03.png>
+Package pdftex.def Info: img/hp03.png  used on input line 25.
 (pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
 
 Overfull \hbox (2.3214pt too wide) in paragraph at lines 24--26
 [][] []
  []
 
-<img/homepage04.png, id=152, 1028.34187pt x 495.35063pt>
-File: img/homepage04.png Graphic file (type png)
-<use img/homepage04.png>
-Package pdftex.def Info: img/homepage04.png  used on input line 31.
+<img/hp04.png, id=152, 1028.34187pt x 495.35063pt>
+File: img/hp04.png Graphic file (type png)
+<use img/hp04.png>
+Package pdftex.def Info: img/hp04.png  used on input line 31.
 (pdftex.def)             Requested size: 256.07481pt x 123.3536pt.
-<img/homepage05.png, id=153, 1028.34187pt x 152.82094pt>
-File: img/homepage05.png Graphic file (type png)
-<use img/homepage05.png>
-Package pdftex.def Info: img/homepage05.png  used on input line 32.
+<img/hp05.png, id=153, 1028.34187pt x 152.82094pt>
+File: img/hp05.png Graphic file (type png)
+<use img/hp05.png>
+Package pdftex.def Info: img/hp05.png  used on input line 32.
 (pdftex.def)             Requested size: 256.07481pt x 38.0559pt.
 
 Overfull \hbox (2.3214pt too wide) in paragraph at lines 31--33
@@ -705,20 +705,19 @@ has been already used, duplicate ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.36 
-      <./img/homepage02.png> <./img/homepage03.png>]) (Sezioni/Nome.tex)
+      <./img/hp02.png> <./img/hp03.png>]) (Sezioni/Nome.tex)
 File: img/UniPd.png Graphic file (type png)
 <use img/UniPd.png>
 Package pdftex.def Info: img/UniPd.png  used on input line 17.
 (pdftex.def)             Requested size: 28.45274pt x 28.63008pt.
-
-[4pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
-has been already used, duplicate ignored
+ [4pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.17 	
-       <./img/homepage04.png> <./img/homepage05.png>]
-(Sezioni/StrutturaGenerale.tex (Sezioni/Navigazione.tex
+       <./img/hp04.png> <./img/hp05.png>] (Sezioni/StrutturaGenerale.tex
+(Sezioni/Navigazione.tex
 LaTeX Font Info:    Try loading font information for OMS+phv on input line 6.
 
 ("C:\Users\bek_1\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsphv.fd"
@@ -897,7 +896,7 @@ Package rerunfilecheck Info: File `ProgettoWIM.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9638 strings out of 493303
- 138000 string characters out of 3129784
+ 137850 string characters out of 3129784
  249438 words of memory out of 3000000
  12889 multiletter control sequences out of 15000+200000
  62833 words of font info for 64 fonts, out of 3000000 for 9000
